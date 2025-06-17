@@ -27,7 +27,7 @@ We don’t just write code — we build creative, scalable, and smart solutions.
 ## 👤 Led By:
 **Muhammad Shah** – Team Lead, Developer & Educator  
 📍 Location: Lahore, Pakistan  
-🕹️ Role: Full-Stack Dev | Content Creator | Team Manager
+🕹️ Role: Full-Stack Dev | Team Manager
 
 ---
 
